@@ -1,3 +1,4 @@
+#!/usr/bin/zsh
 # Install the virtualenv wrapper
 python -mplatform | grep -qi Ubuntu && sudo apt install virtualenvwrapper || sudo dnf install virtualenvwrapper
 
