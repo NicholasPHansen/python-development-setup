@@ -2,5 +2,5 @@ pytest
 pytest-cov
 deprecation
 autopep8
-flake
+flake8
 sphinx
