@@ -1,0 +1,6 @@
+pytest
+pytest-cov
+deprecation
+autopep8
+flake
+sphinx
